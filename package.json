@@ -1,0 +1,28 @@
+{
+  "name": "code-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexXiaoLiu/code-generator.git"
+  },
+  "keywords": [
+    "node",
+    "angular",
+    "codeGenerator"
+  ],
+  "author": "AlexXiaoliu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexXiaoLiu/code-generator/issues"
+  },
+  "homepage": "https://github.com/AlexXiaoLiu/code-generator#readme",
+  "dependencies": {
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.2"
+  }
+}
